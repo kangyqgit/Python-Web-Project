@@ -1,0 +1,81 @@
+[2025-07-16 13:12:15][INFO][database.connect]-数据库连接成功
+[2025-07-16 13:12:15][ERROR][database.create_tables]-创建表失败：(1598, "Binary logging not possible. Message: An error occurred during flush stage of the commit. 'binlog_error_action' is set to 'ABORT_SERVER'. Server is being stopped.")
+[2025-07-16 13:12:15][INFO][database.__init__]-数据库初始化完成
+[2025-07-16 13:12:16][INFO][app.<module>]-程序启动
+[2025-07-16 13:12:17][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-16 13:12:17][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-16 13:12:17][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-16 13:12:17][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-16 13:12:19][ERROR][database.get_all_songs]-获取所有歌曲失败：(2013, 'Lost connection to MySQL server during query ([WinError 10054] 远程主机强迫关闭了一个现有的连接。)')
+[2025-07-16 13:12:19][ERROR][main_windows.load_local_music]-加载本地音乐失败：'NoneType' object is not iterable
+[2025-07-16 13:12:19][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-16 13:12:19][ERROR][database.get_playlist]-获取播放列表失败：(0, '')
+[2025-07-16 13:12:19][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载0首歌曲！
+[2025-07-16 13:12:19][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-16 13:12:24][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-16 13:12:24][ERROR][database.get_playlist]-获取播放列表失败：(0, '')
+[2025-07-16 13:12:24][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载0首歌曲！
+[2025-07-16 13:14:29][INFO][main_windows.on_closing]-程序关闭
+[2025-07-16 13:14:29][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-16 13:14:29][INFO][database.close]-数据库连接关闭
+[2025-07-16 13:14:29][INFO][app.<module>]-程序正常退出
+[2025-07-16 13:14:37][INFO][database.connect]-数据库连接成功
+[2025-07-16 13:14:37][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-16 13:14:37][INFO][database.create_tables]-数据库表创建成功
+[2025-07-16 13:14:37][INFO][database.__init__]-数据库初始化完成
+[2025-07-16 13:14:38][INFO][app.<module>]-程序启动
+[2025-07-16 13:14:38][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-16 13:14:39][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-16 13:14:39][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-16 13:14:39][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-16 13:14:39][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-16 13:14:39][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-16 13:14:39][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-16 13:14:39][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-16 13:14:52][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-16 13:14:53][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-16 13:14:54][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-16 13:14:54][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-16 13:14:54][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-16 13:14:54][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-16 13:14:54][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-16 13:14:54][INFO][audio_player.play]-开始播放：sold out
+[2025-07-16 13:15:39][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-16 13:15:48][INFO][main_windows.search_music_online]-搜索在线音乐：chendu
+[2025-07-16 13:15:48][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：chendu
+[2025-07-16 13:15:48][INFO][downloader.search]-未搜索到本地音乐: chendu
+[2025-07-16 13:15:54][INFO][main_windows.search_music_online]-搜索在线音乐：chegndu
+[2025-07-16 13:15:54][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：chegndu
+[2025-07-16 13:15:54][INFO][downloader.search]-未搜索到本地音乐: chegndu
+[2025-07-16 13:15:56][INFO][main_windows.search_music_online]-搜索在线音乐：chegndu
+[2025-07-16 13:15:56][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：chegndu
+[2025-07-16 13:15:56][INFO][downloader.search]-未搜索到本地音乐: chegndu
+[2025-07-16 13:16:05][INFO][main_windows.search_music_online]-搜索在线音乐：chengdu
+[2025-07-16 13:16:05][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：chengdu
+[2025-07-16 13:16:05][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-16 13:17:53][INFO][audio_player.stop]-停止播放
+[2025-07-16 13:17:53][INFO][audio_player.update_position]-播放完毕：sold out
+[2025-07-16 13:17:53][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-16 13:17:54][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-16 13:18:08][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-16 13:18:08][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：'NoneType' object has no attribute 'append'
+[2025-07-16 13:18:18][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-16 13:18:18][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-16 13:18:18][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-16 13:18:18][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-16 13:18:18][INFO][audio_player.play]-开始播放：sold out
+[2025-07-16 13:18:18][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/downloads/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-16 13:18:18][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-16 13:24:19][INFO][database.connect]-数据库连接成功
+[2025-07-16 13:24:19][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-16 13:24:19][INFO][database.create_tables]-数据库表创建成功
+[2025-07-16 13:24:19][INFO][database.__init__]-数据库初始化完成
+[2025-07-16 13:24:24][INFO][app.<module>]-程序启动
+[2025-07-16 13:24:24][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-16 13:24:25][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-16 13:24:25][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-16 13:24:25][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-16 13:24:25][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-16 13:24:25][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-16 13:24:25][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-16 13:24:25][INFO][main_windows.__init__]-音乐播放器初始化完成

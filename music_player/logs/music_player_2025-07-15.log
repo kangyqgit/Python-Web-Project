@@ -1,0 +1,1830 @@
+[2025-07-15 02:45:55][INFO][database.connect]-数据库连接成功
+[2025-07-15 02:45:55][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 02:45:55][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 02:45:55][INFO][app.<module>]-程序启动
+[2025-07-15 02:45:55][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 02:45:55][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 02:45:55][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 02:46:02][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 02:46:02][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 02:46:02][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 02:46:02][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 02:46:02][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 02:46:02][DEBUG][database.get_playlist]-播放列表列表：2个播放列表
+[2025-07-15 02:46:11][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 02:46:11][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 02:48:01][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 02:48:09][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 02:48:09][DEBUG][database.get_playlist]-播放列表列表：2个播放列表
+[2025-07-15 02:48:09][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 02:48:19][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 02:52:21][INFO][database.connect]-数据库连接成功
+[2025-07-15 02:52:21][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 02:52:21][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 02:52:21][INFO][app.<module>]-程序启动
+[2025-07-15 02:52:21][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 02:52:21][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 02:52:21][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 02:52:23][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 02:52:23][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 02:52:23][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 02:52:23][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 02:52:23][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 02:52:23][DEBUG][database.get_playlist]-播放列表列表：3个播放列表
+[2025-07-15 02:52:23][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 02:52:23][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 02:52:24][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 02:52:25][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 02:52:26][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 02:52:27][WARNING][audio_player.play_prev]-当前没有播放列表，无法播放上一首
+[2025-07-15 13:39:27][INFO][database.connect]-数据库连接成功
+[2025-07-15 13:39:27][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 13:39:27][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 13:39:27][INFO][app.<module>]-程序启动
+[2025-07-15 13:39:28][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 13:39:28][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 13:39:28][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 13:39:30][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 13:39:30][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 13:39:30][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 13:39:30][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 13:39:30][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 13:39:30][DEBUG][database.get_playlist]-播放列表列表：4个播放列表
+[2025-07-15 13:39:30][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 13:39:30][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 13:40:56][INFO][database.connect]-数据库连接成功
+[2025-07-15 13:40:56][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 13:40:56][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 13:40:56][INFO][app.<module>]-程序启动
+[2025-07-15 13:40:56][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 13:40:56][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 13:40:56][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 13:40:57][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 13:40:57][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 13:40:57][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 13:40:57][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 13:40:57][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 13:40:57][DEBUG][database.get_playlist]-播放列表列表：5个播放列表
+[2025-07-15 13:45:39][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 13:45:39][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 13:45:51][INFO][database.connect]-数据库连接成功
+[2025-07-15 13:45:51][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 13:45:51][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 13:45:51][INFO][app.<module>]-程序启动
+[2025-07-15 13:45:51][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 13:45:51][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 13:45:51][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 13:45:54][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 13:45:54][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 13:45:54][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 13:45:54][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 13:45:54][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 13:50:39][DEBUG][database.get_playlist]-播放列表列表：6个播放列表
+[2025-07-15 13:52:20][INFO][database.connect]-数据库连接成功
+[2025-07-15 13:52:20][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 13:52:20][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 13:52:20][INFO][app.<module>]-程序启动
+[2025-07-15 13:52:20][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 13:52:21][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 13:52:21][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 13:52:23][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 13:52:23][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 13:52:23][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 13:52:23][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 13:52:23][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:10:09][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:10:09][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:10:09][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:10:10][INFO][app.<module>]-程序启动
+[2025-07-15 14:10:10][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:10:10][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:10:11][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:10:11][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:10:11][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 14:10:11][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 14:10:11][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:10:22][DEBUG][database.get_playlist]-播放列表列表：2个播放列表
+[2025-07-15 14:10:28][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:10:28][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 14:10:42][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 14:10:42][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 14:10:42][INFO][database.close]-数据库连接关闭
+[2025-07-15 14:10:42][INFO][app.<module>]-程序正常退出
+[2025-07-15 14:10:46][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:10:46][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:10:46][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:10:47][INFO][app.<module>]-程序启动
+[2025-07-15 14:10:47][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:10:47][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:10:48][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:10:48][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:10:48][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 14:10:48][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 14:10:48][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:10:57][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:10:57][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:10:57][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:10:57][INFO][app.<module>]-程序启动
+[2025-07-15 14:10:57][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:10:57][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:10:57][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:10:57][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:10:57][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 14:10:57][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 14:10:57][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:10:57][DEBUG][database.get_playlist]-播放列表列表：4个播放列表
+[2025-07-15 14:10:57][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:10:57][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 14:11:00][INFO][main_windows.download_selected]-下载选中的音乐
+[2025-07-15 14:11:00][INFO][main_windows.download_selected]-下载选中的音乐失败，未选择歌曲
+[2025-07-15 14:12:25][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 14:12:25][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 14:12:25][INFO][database.close]-数据库连接关闭
+[2025-07-15 14:12:25][INFO][app.<module>]-程序正常退出
+[2025-07-15 14:16:07][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:16:07][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:16:07][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:16:12][INFO][app.<module>]-程序启动
+[2025-07-15 14:16:12][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:16:13][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:16:13][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:16:13][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:16:13][INFO][database.get_all_songs]-获取歌曲列表：0首歌曲
+[2025-07-15 14:16:13][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载0首歌曲！
+[2025-07-15 14:16:13][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:16:20][DEBUG][database.get_playlist]-播放列表列表：5个播放列表
+[2025-07-15 14:16:20][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:16:20][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 14:16:27][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:16:27][DEBUG][database.get_playlist]-播放列表列表：5个播放列表
+[2025-07-15 14:16:27][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:17:12][INFO][main_windows.search_music_online]-搜索在线音乐：康一枪
+[2025-07-15 14:17:47][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：康一枪
+[2025-07-15 14:31:34][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 14:31:34][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 14:31:34][INFO][database.close]-数据库连接关闭
+[2025-07-15 14:31:34][INFO][app.<module>]-程序正常退出
+[2025-07-15 14:31:42][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:31:42][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:31:42][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:31:47][INFO][app.<module>]-程序启动
+[2025-07-15 14:31:47][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:31:47][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:31:48][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:31:48][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:31:48][INFO][database.get_all_songs]-获取歌曲列表：2首歌曲
+[2025-07-15 14:31:48][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:31:48][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:31:48][DEBUG][database.get_playlist]-播放列表列表：6个播放列表
+[2025-07-15 14:31:48][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:31:48][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 14:31:52][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 14:32:06][INFO][main_windows.add_local_music]-用户添加了53首歌曲
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲D添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲:添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲D添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲o添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲w添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲n添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲l添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲o添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲a添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲d添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲p添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲r添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲o添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲j添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲e添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲c添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲t添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲_添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲m添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲u添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲s添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲i添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲c添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲_添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲p添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲l添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲a添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲y添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲e添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲r添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲_添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲d添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲o添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲w添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲n添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲l添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲o添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲a添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲d添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲c添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲h添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲e添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲n添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲g添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲d添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲u添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲.添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲m添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲p添加成功
+[2025-07-15 14:32:06][INFO][database.add_song]-歌曲3添加成功
+[2025-07-15 14:32:06][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:32:06][INFO][database.get_all_songs]-获取歌曲列表：55首歌曲
+[2025-07-15 14:32:06][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:32:06][INFO][main_windows.add_local_music]-本地音乐添加成功
+[2025-07-15 14:32:14][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:32:14][DEBUG][database.get_playlist]-播放列表列表：6个播放列表
+[2025-07-15 14:32:14][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:37:35][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:37:35][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:37:35][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:37:40][INFO][app.<module>]-程序启动
+[2025-07-15 14:37:40][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:37:40][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:37:40][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:37:40][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:37:40][INFO][database.get_all_songs]-获取歌曲列表：2首歌曲
+[2025-07-15 14:37:40][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:37:40][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:37:40][DEBUG][database.get_playlist]-播放列表列表：7个播放列表
+[2025-07-15 14:37:40][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:37:40][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 14:38:46][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 14:39:40][INFO][main_windows.add_local_music]-用户添加了54首歌曲
+[2025-07-15 14:42:06][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 14:42:06][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 14:42:06][INFO][database.close]-数据库连接关闭
+[2025-07-15 14:42:06][INFO][app.<module>]-程序正常退出
+[2025-07-15 14:42:11][INFO][database.connect]-数据库连接成功
+[2025-07-15 14:42:11][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 14:42:11][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 14:42:16][INFO][app.<module>]-程序启动
+[2025-07-15 14:42:16][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 14:42:16][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 14:42:16][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 14:42:16][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:42:16][INFO][database.get_all_songs]-获取歌曲列表：2首歌曲
+[2025-07-15 14:42:16][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:42:16][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 14:42:16][DEBUG][database.get_playlist]-播放列表列表：8个播放列表
+[2025-07-15 14:42:16][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:42:16][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 14:42:18][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 14:42:31][INFO][main_windows.add_local_music]-用户添加了1首歌曲
+[2025-07-15 14:43:17][INFO][database.add_song]-歌曲sold out添加成功
+[2025-07-15 14:44:04][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 14:44:04][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 14:44:23][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 14:44:23][INFO][main_windows.add_local_music]-本地音乐添加成功
+[2025-07-15 15:00:21][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:00:21][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:00:21][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:00:26][INFO][app.<module>]-程序启动
+[2025-07-15 15:00:27][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:00:27][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:00:27][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:00:33][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:00:33][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 15:00:55][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:00:55][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:00:55][DEBUG][database.get_playlist]-播放列表列表：9个播放列表
+[2025-07-15 15:00:55][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:00:55][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:01:19][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:01:19][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:01:19][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:01:19][INFO][app.<module>]-程序启动
+[2025-07-15 15:01:19][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:01:19][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:01:20][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:01:22][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:01:22][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 15:01:47][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:01:47][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:01:47][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:01:52][INFO][app.<module>]-程序启动
+[2025-07-15 15:01:52][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:01:52][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:01:53][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:01:53][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:01:53][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 15:01:57][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:01:57][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:01:57][DEBUG][database.get_playlist]-播放列表列表：11个播放列表
+[2025-07-15 15:01:57][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:01:57][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:02:28][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:02:28][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:02:28][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:02:33][INFO][app.<module>]-程序启动
+[2025-07-15 15:02:33][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:02:33][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:02:33][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:02:33][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:02:33][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 15:02:36][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:02:36][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:02:36][DEBUG][database.get_playlist]-播放列表列表：12个播放列表
+[2025-07-15 15:02:36][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:02:36][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:03:52][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:03:52][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:03:52][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:03:57][INFO][app.<module>]-程序启动
+[2025-07-15 15:03:57][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:03:57][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:03:57][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:03:57][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:03:57][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 15:04:04][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:04:04][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:04:04][DEBUG][database.get_playlist]-播放列表列表：13个播放列表
+[2025-07-15 15:04:04][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:04:04][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:10:53][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:10:53][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:10:53][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:10:54][INFO][app.<module>]-程序启动
+[2025-07-15 15:10:54][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:10:54][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:10:54][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:10:54][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:10:54][INFO][database.get_all_songs]-获取歌曲列表：3首歌曲
+[2025-07-15 15:10:54][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:10:54][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:10:54][DEBUG][database.get_playlist]-播放列表列表：14个播放列表
+[2025-07-15 15:10:54][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:10:54][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:17:08][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:17:08][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:17:08][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:17:09][INFO][app.<module>]-程序启动
+[2025-07-15 15:17:09][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:17:09][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:17:09][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:17:09][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:17:09][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:17:09][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:17:09][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:17:09][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:19:38][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:19:38][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:19:38][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:19:44][INFO][app.<module>]-程序启动
+[2025-07-15 15:19:44][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:19:44][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:19:44][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:19:44][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:19:44][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:21:49][ERROR][main_windows.load_local_music]-加载本地音乐失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:21:49][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:21:49][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:21:49][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:22:00][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:22:00][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:22:00][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:22:07][INFO][app.<module>]-程序启动
+[2025-07-15 15:22:07][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:22:07][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:22:07][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:22:07][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:22:07][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:22:31][INFO][main_windows.load_local_music]-Song-Info : (2, '成都1', '赵雷11', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 1, datetime.datetime(2025, 7, 15, 14, 30, 59), 'D:Downloadproject_music_player_downloadimgchendu1.jpg')
+[2025-07-15 15:22:36][INFO][main_windows.load_local_music]-Song-Info : (56, 'sold out', '未知', '未知', 0, 'D:/Download/project_music_player_download/sold out.mp3', 0, datetime.datetime(2025, 7, 15, 14, 43, 17), None)
+[2025-07-15 15:22:46][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 15:22:46][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:22:46][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：tuple indices must be integers or slices, not str
+[2025-07-15 15:22:46][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:22:59][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=1,错误信息：'Database' object has no attribute 'get_song'
+[2025-07-15 15:26:56][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:26:56][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:26:56][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:27:01][INFO][app.<module>]-程序启动
+[2025-07-15 15:27:01][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:27:01][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:27:01][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:27:01][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:27:01][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:27:06][INFO][main_windows.load_local_music]-Song-Info : (2, '成都1', '赵雷11', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 1, datetime.datetime(2025, 7, 15, 14, 30, 59), 'D:Downloadproject_music_player_downloadimgchendu1.jpg')
+[2025-07-15 15:27:06][INFO][main_windows.load_local_music]-Song-Info : (56, 'sold out', '未知', '未知', 0, 'D:/Download/project_music_player_download/sold out.mp3', 0, datetime.datetime(2025, 7, 15, 14, 43, 17), None)
+[2025-07-15 15:27:10][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 15:27:10][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:27:10][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载18首歌曲！
+[2025-07-15 15:27:10][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:28:08][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:28:08][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:28:08][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:28:17][INFO][app.<module>]-程序启动
+[2025-07-15 15:28:17][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:28:17][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:28:18][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:28:18][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:28:18][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:28:18][INFO][main_windows.load_local_music]-Song-Info : (2, '成都1', '赵雷11', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 1, datetime.datetime(2025, 7, 15, 14, 30, 59), 'D:Downloadproject_music_player_downloadimgchendu1.jpg')
+[2025-07-15 15:28:18][INFO][main_windows.load_local_music]-Song-Info : (56, 'sold out', '未知', '未知', 0, 'D:/Download/project_music_player_download/sold out.mp3', 0, datetime.datetime(2025, 7, 15, 14, 43, 17), None)
+[2025-07-15 15:28:18][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 15:28:18][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:28:18][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载2首歌曲！
+[2025-07-15 15:28:18][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:28:44][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:28:44][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载2首歌曲！
+[2025-07-15 15:28:48][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:28:48][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载2首歌曲！
+[2025-07-15 15:30:39][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:30:39][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:30:39][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:30:44][INFO][app.<module>]-程序启动
+[2025-07-15 15:30:44][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:30:44][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:30:45][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:30:45][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:30:45][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:30:45][ERROR][main_windows.load_local_music]-加载本地音乐失败：value for "-tags" missing
+[2025-07-15 15:30:45][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:30:45][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载3首歌曲！
+[2025-07-15 15:30:45][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:31:27][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:31:27][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:31:27][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:31:32][INFO][app.<module>]-程序启动
+[2025-07-15 15:31:32][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:31:32][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:31:32][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:31:32][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:31:32][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:31:32][ERROR][main_windows.load_local_music]-加载本地音乐失败：value for "-tags" missing
+[2025-07-15 15:31:32][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:31:32][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载4首歌曲！
+[2025-07-15 15:31:32][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:32:37][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:32:37][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:32:37][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:32:38][INFO][app.<module>]-程序启动
+[2025-07-15 15:32:38][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:32:38][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:32:38][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:32:38][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:32:38][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:32:38][INFO][main_windows.load_local_music]-Song-Info : (2, '成都1', '赵雷11', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 1, datetime.datetime(2025, 7, 15, 14, 30, 59), 'D:Downloadproject_music_player_downloadimgchendu1.jpg')
+[2025-07-15 15:32:38][INFO][main_windows.load_local_music]-Song-Info : (56, 'sold out', '未知', '未知', 0, 'D:/Download/project_music_player_download/sold out.mp3', 0, datetime.datetime(2025, 7, 15, 14, 43, 17), None)
+[2025-07-15 15:32:38][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 15:32:38][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:32:38][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载5首歌曲！
+[2025-07-15 15:32:38][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:39:10][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:39:10][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:39:10][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:39:11][INFO][app.<module>]-程序启动
+[2025-07-15 15:39:11][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:39:11][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:39:11][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:39:11][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:39:11][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:40:16][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:40:16][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:40:16][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:40:17][INFO][app.<module>]-程序启动
+[2025-07-15 15:40:17][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:40:17][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:40:17][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:40:17][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:40:17][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:42:12][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:42:12][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:42:12][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:42:17][INFO][app.<module>]-程序启动
+[2025-07-15 15:42:17][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:42:17][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:42:17][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:42:17][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:42:17][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:42:26][ERROR][main_windows.load_local_music]-加载本地音乐失败：value for "-tags" missing
+[2025-07-15 15:42:26][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:42:26][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载8首歌曲！
+[2025-07-15 15:42:26][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:42:56][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:42:56][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:42:56][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:43:01][INFO][app.<module>]-程序启动
+[2025-07-15 15:43:01][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:43:01][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:43:01][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:43:01][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:43:01][INFO][main_windows.load_local_music]-Song-Info : (1, '成都', '赵雷', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 0, datetime.datetime(2025, 7, 15, 14, 29, 37), 'D:Downloadproject_music_player_downloadimgchengdu.jpg')
+[2025-07-15 15:43:01][INFO][main_windows.load_local_music]-Song-Info : (2, '成都1', '赵雷11', '', 328, 'D:Downloadproject_music_player_downloadchendu.mp3', 1, datetime.datetime(2025, 7, 15, 14, 30, 59), 'D:Downloadproject_music_player_downloadimgchendu1.jpg')
+[2025-07-15 15:43:01][INFO][main_windows.load_local_music]-Song-Info : (56, 'sold out', '未知', '未知', 0, 'D:/Download/project_music_player_download/sold out.mp3', 0, datetime.datetime(2025, 7, 15, 14, 43, 17), None)
+[2025-07-15 15:43:01][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 15:43:01][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:43:01][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载9首歌曲！
+[2025-07-15 15:43:01][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 15:43:42][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 15:43:42][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 15:43:42][INFO][database.close]-数据库连接关闭
+[2025-07-15 15:43:42][INFO][app.<module>]-程序正常退出
+[2025-07-15 15:45:08][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:45:08][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:45:08][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:45:14][INFO][app.<module>]-程序启动
+[2025-07-15 15:45:14][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:45:14][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:45:14][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:45:14][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:59:15][INFO][database.connect]-数据库连接成功
+[2025-07-15 15:59:15][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 15:59:15][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 15:59:20][INFO][app.<module>]-程序启动
+[2025-07-15 15:59:21][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 15:59:21][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 15:59:21][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 15:59:21][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 15:59:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 15:59:29][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 15:59:29][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 15:59:29][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 15:59:29][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 15:59:29][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：1
+[2025-07-15 15:59:29][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:00:26][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:00:26][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:00:26][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:00:26][INFO][app.<module>]-程序启动
+[2025-07-15 16:00:26][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:00:26][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:00:27][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:00:27][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:00:27][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 16:00:27][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 16:00:27][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:00:27][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:00:27][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:00:27][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载12首歌曲！
+[2025-07-15 16:00:27][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:00:46][INFO][main_windows.search_music_online]-搜索在线音乐：成都
+[2025-07-15 16:00:51][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：成都
+[2025-07-15 16:01:05][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-15 16:01:42][INFO][main_windows.search_music_online]-搜索在线音乐：成都
+[2025-07-15 16:01:42][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：成都
+[2025-07-15 16:01:50][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-15 16:07:47][INFO][main_windows.search_music_online]-搜索在线音乐：成都
+[2025-07-15 16:07:47][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：成都
+[2025-07-15 16:07:47][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-15 16:08:01][INFO][main_windows.search_music_online]-搜索在线音乐：成
+[2025-07-15 16:08:01][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：成
+[2025-07-15 16:08:01][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-15 16:08:09][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 16:08:24][INFO][main_windows.add_local_music]-用户添加了1首歌曲
+[2025-07-15 16:08:26][INFO][database.add_song]-歌曲chengdu添加成功
+[2025-07-15 16:08:26][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:08:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 16:08:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 16:08:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:08:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:08:26][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载4首歌曲！
+[2025-07-15 16:08:26][INFO][main_windows.add_local_music]-本地音乐添加成功
+[2025-07-15 16:31:28][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:31:28][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:31:28][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:31:28][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:31:29][INFO][app.<module>]-程序启动
+[2025-07-15 16:31:29][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:31:29][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:31:29][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:31:29][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:31:29][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 16:31:29][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 16:31:29][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:31:29][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:31:29][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载4首歌曲！
+[2025-07-15 16:31:29][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:31:29][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:31:29][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:31:33][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:31:33][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:31:36][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:31:36][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:32:10][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=2,错误信息：'Database' object has no attribute 'get_song'
+[2025-07-15 16:32:17][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 16:32:20][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 16:32:20][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 16:32:22][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 16:32:23][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 16:32:25][WARNING][audio_player.play_prev]-当前没有播放列表，无法播放上一首
+[2025-07-15 16:32:27][INFO][main_windows.download_selected]-下载选中的音乐
+[2025-07-15 16:32:27][INFO][main_windows.download_selected]-下载选中的音乐失败，未选择歌曲
+[2025-07-15 16:32:29][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:32:29][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:32:30][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:32:30][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:32:31][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:32:31][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:32:32][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:32:32][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:32:33][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 16:32:40][INFO][main_windows.search_music_online]-搜索在线音乐：成都
+[2025-07-15 16:32:40][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：成都
+[2025-07-15 16:32:40][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-15 16:32:42][INFO][main_windows.search_music_online]-搜索在线音乐：成都
+[2025-07-15 16:32:42][INFO][main_windows.search_thread]-开辟线程搜索在线音乐：成都
+[2025-07-15 16:32:42][INFO][downloader.search]-搜索到本地音乐2条
+[2025-07-15 16:34:03][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:34:03][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:34:03][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:34:03][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:34:03][INFO][app.<module>]-程序启动
+[2025-07-15 16:34:03][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:34:03][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:34:04][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:34:04][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:34:04][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 16:34:04][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 16:34:04][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:34:04][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:34:04][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载4首歌曲！
+[2025-07-15 16:34:04][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:34:04][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:34:04][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:36:05][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:36:05][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:36:05][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:36:05][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:36:06][INFO][app.<module>]-程序启动
+[2025-07-15 16:36:06][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:36:06][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:36:06][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:36:06][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:36:06][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 16:36:06][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 16:36:06][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:36:06][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:36:06][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载4首歌曲！
+[2025-07-15 16:36:06][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:36:06][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:36:06][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:36:19][ERROR][audio_player.load_song]-音乐文件D:Downloadproject_music_player_downloadchendu.mp3不存在
+[2025-07-15 16:37:17][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:37:18][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:37:18][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:37:18][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:37:18][INFO][app.<module>]-程序启动
+[2025-07-15 16:37:18][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:37:18][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:37:18][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:37:18][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:37:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 1, 'title': '成都', 'artist': '赵雷', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 29, 37), 'img_path': 'D:Downloadproject_music_player_downloadimgchengdu.jpg'}
+[2025-07-15 16:37:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 2, 'title': '成都1', 'artist': '赵雷11', 'album': '', 'duration': 328, 'file_path': 'D:Downloadproject_music_player_downloadchendu.mp3', 'source': 1, 'add_time': datetime.datetime(2025, 7, 15, 14, 30, 59), 'img_path': 'D:Downloadproject_music_player_downloadimgchendu1.jpg'}
+[2025-07-15 16:37:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:37:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:37:18][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载4首歌曲！
+[2025-07-15 16:37:18][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:37:18][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:37:18][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:38:54][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:38:54][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:38:54][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:38:54][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:38:55][INFO][app.<module>]-程序启动
+[2025-07-15 16:38:55][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:38:55][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:38:55][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:38:55][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:38:55][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:38:55][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:38:55][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载2首歌曲！
+[2025-07-15 16:38:55][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:38:55][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:38:55][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:38:58][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 16:39:02][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 16:39:02][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 16:39:02][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 16:39:13][INFO][audio_player.set_position]-设置播放位置为12.0%
+[2025-07-15 16:39:14][INFO][audio_player.set_position]-设置播放位置为31.0%
+[2025-07-15 16:39:16][INFO][audio_player.set_position]-设置播放位置为45.0%
+[2025-07-15 16:39:17][INFO][audio_player.set_position]-设置播放位置为71.0%
+[2025-07-15 16:40:49][INFO][audio_player.pause]-暂停播放
+[2025-07-15 16:41:03][INFO][audio_player.play]-恢复播放
+[2025-07-15 16:41:20][INFO][audio_player.stop]-停止播放
+[2025-07-15 16:41:20][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 16:41:20][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 16:41:21][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 16:41:36][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 16:41:36][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 16:41:36][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 16:41:37][INFO][audio_player.pause]-暂停播放
+[2025-07-15 16:41:38][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 16:41:38][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 16:41:41][INFO][audio_player.play]-恢复播放
+[2025-07-15 16:41:46][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 16:41:46][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 16:41:46][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 16:42:32][INFO][audio_player.pause]-暂停播放
+[2025-07-15 16:42:33][INFO][audio_player.play]-恢复播放
+[2025-07-15 16:42:52][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 16:42:56][INFO][main_windows.add_local_music]-用户添加了1首歌曲
+[2025-07-15 16:42:56][INFO][database.add_song]-歌曲chengdu添加成功
+[2025-07-15 16:42:56][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:42:56][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:42:56][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:42:56][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:42:56][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:42:56][INFO][main_windows.add_local_music]-本地音乐添加成功
+[2025-07-15 16:43:01][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 16:44:37][INFO][main_windows.add_local_music]-用户取消了添加本地音乐
+[2025-07-15 16:44:46][INFO][audio_player.stop]-停止播放
+[2025-07-15 16:44:46][INFO][audio_player.update_position]-播放完毕：sold out
+[2025-07-15 16:44:46][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 16:44:47][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 16:44:55][WARNING][audio_player.play_prev]-当前没有播放列表，无法播放上一首
+[2025-07-15 16:44:58][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:44:58][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:45:05][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 16:45:05][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 16:45:05][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 16:45:06][INFO][audio_player.pause]-暂停播放
+[2025-07-15 16:45:06][INFO][audio_player.play]-恢复播放
+[2025-07-15 16:45:15][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:45:15][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:47:25][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:47:25][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:47:25][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:47:25][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:47:26][INFO][app.<module>]-程序启动
+[2025-07-15 16:47:26][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:47:26][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:47:26][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:47:26][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:47:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:47:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:47:26][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:47:26][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:47:26][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:47:26][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:47:26][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:47:38][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 16:47:38][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 16:47:38][INFO][database.close]-数据库连接关闭
+[2025-07-15 16:47:38][INFO][app.<module>]-程序正常退出
+[2025-07-15 16:50:07][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:50:07][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:50:07][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:50:07][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:50:08][INFO][app.<module>]-程序启动
+[2025-07-15 16:50:08][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:50:08][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:50:08][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:50:08][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:50:08][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:50:08][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:50:08][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:50:08][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:50:08][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:50:08][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:50:08][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:50:17][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:50:17][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:50:33][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:51:02][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:51:02][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:51:02][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:51:02][INFO][app.<module>]-程序启动
+[2025-07-15 16:51:02][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:51:02][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:51:02][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:51:02][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:51:02][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:51:02][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:51:02][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:51:02][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:51:02][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:51:02][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:51:02][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:51:58][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:52:00][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:52:00][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:52:00][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:52:05][INFO][app.<module>]-程序启动
+[2025-07-15 16:52:05][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:52:05][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:52:05][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:52:05][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:52:05][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:52:05][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:52:05][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:52:05][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:52:05][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:52:05][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:52:05][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:52:22][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:52:37][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:52:37][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:52:37][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:52:42][INFO][app.<module>]-程序启动
+[2025-07-15 16:52:42][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:52:42][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:52:42][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:52:42][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:52:42][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:52:42][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:52:42][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:52:42][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:52:42][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:52:42][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:52:42][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:54:36][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:54:45][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:54:45][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:54:45][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:54:46][INFO][app.<module>]-程序启动
+[2025-07-15 16:54:46][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:54:46][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:54:46][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:54:46][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:54:46][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:54:46][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:54:46][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:54:46][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:54:46][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:54:46][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:54:46][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:55:04][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:55:04][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:55:04][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:55:04][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:55:10][INFO][app.<module>]-程序启动
+[2025-07-15 16:55:10][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:55:10][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:55:10][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:55:10][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:55:10][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:55:10][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:55:10][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:55:10][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:55:10][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:55:10][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:55:10][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:55:39][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:55:39][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '默认播放列表' in 'where clause'")
+[2025-07-15 16:55:39][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:55:39][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:55:40][INFO][app.<module>]-程序启动
+[2025-07-15 16:55:40][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:55:40][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:55:40][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:55:40][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:55:40][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:55:40][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:55:40][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:55:40][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:55:40][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:55:40][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:55:40][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:56:47][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:56:47][ERROR][database.set_default_playlists]-设置默认播放列表失败：(1054, "Unknown column '‘默认播放列表’' in 'where clause'")
+[2025-07-15 16:56:47][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:56:47][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:56:47][INFO][app.<module>]-程序启动
+[2025-07-15 16:56:47][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:56:47][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:56:48][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:56:48][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:56:48][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:56:48][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:56:48][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:56:48][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:56:48][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:56:48][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:56:48][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:57:33][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:57:39][INFO][database.set_default_playlists]-创建播放列表默认播放列表成功
+[2025-07-15 16:57:39][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 16:57:39][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:57:39][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:57:39][INFO][app.<module>]-程序启动
+[2025-07-15 16:57:40][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:57:40][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:57:40][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:57:40][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:57:40][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:57:40][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:57:40][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:57:40][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:57:40][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:57:40][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载2首歌曲！
+[2025-07-15 16:57:40][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 16:57:43][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:57:43][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载2首歌曲！
+[2025-07-15 16:57:45][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:57:45][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载2首歌曲！
+[2025-07-15 16:58:17][INFO][database.connect]-数据库连接成功
+[2025-07-15 16:58:17][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 16:58:17][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 16:58:17][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 16:58:18][INFO][app.<module>]-程序启动
+[2025-07-15 16:58:18][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 16:58:18][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 16:58:18][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 16:58:18][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 16:58:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 16:58:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 16:58:18][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 16:58:18][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 16:58:18][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 16:58:18][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 16:58:18][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:05:48][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:05:48][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:05:48][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:05:48][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:05:48][INFO][app.<module>]-程序启动
+[2025-07-15 17:05:48][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:05:48][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:05:48][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:05:48][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:05:48][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 17:05:48][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 57, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:05:48][INFO][main_windows.load_local_music]-Song-Info : {'song_id': 58, 'title': 'chengdu', 'artist': '未知', 'album': '未知', 'duration': 0, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': None}
+[2025-07-15 17:05:48][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:05:48][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:05:48][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:05:48][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:05:51][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:05:51][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:05:55][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 17:06:01][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 17:06:03][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 17:06:04][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:06:04][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:06:11][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:06:11][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:06:17][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 17:06:18][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 17:06:19][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 17:06:21][WARNING][audio_player.play_prev]-当前没有播放列表，无法播放上一首
+[2025-07-15 17:06:22][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 17:06:22][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:06:22][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:06:22][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 17:06:24][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:06:24][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:06:24][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:06:24][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:06:26][INFO][audio_player.set_position]-设置播放位置为11.0%
+[2025-07-15 17:06:27][INFO][audio_player.set_position]-设置播放位置为69.0%
+[2025-07-15 17:07:22][INFO][audio_player.stop]-停止播放
+[2025-07-15 17:07:22][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 17:07:22][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 17:07:22][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 17:07:23][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 17:07:27][WARNING][audio_player.play_prev]-当前没有播放列表，无法播放上一首
+[2025-07-15 17:24:53][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:24:53][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:24:53][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:24:53][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:24:53][INFO][app.<module>]-程序启动
+[2025-07-15 17:24:53][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:24:53][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:24:54][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:24:54][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:24:54][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:24:54][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:24:54][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:24:54][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:24:59][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:24:59][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:25:10][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 17:25:10][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:25:10][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:25:10][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 17:25:11][INFO][audio_player.set_position]-设置播放位置为9.0%
+[2025-07-15 17:25:12][INFO][audio_player.set_position]-设置播放位置为66.0%
+[2025-07-15 17:25:13][INFO][audio_player.set_position]-设置播放位置为80.0%
+[2025-07-15 17:25:17][INFO][audio_player.set_position]-设置播放位置为87.0%
+[2025-07-15 17:25:59][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:25:59][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:25:59][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:25:59][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:25:59][INFO][app.<module>]-程序启动
+[2025-07-15 17:25:59][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:25:59][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:25:59][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:25:59][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:25:59][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:25:59][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:25:59][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:25:59][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:26:02][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:26:02][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:26:04][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:26:04][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:26:04][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:26:04][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:26:10][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:26:10][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:26:10][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:26:10][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:26:14][INFO][audio_player.set_position]-设置播放位置为87.0%
+[2025-07-15 17:27:01][INFO][audio_player.stop]-停止播放
+[2025-07-15 17:27:01][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 17:27:01][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 17:27:01][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 17:27:02][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 17:28:37][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:28:37][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:28:37][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:28:37][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:28:37][INFO][app.<module>]-程序启动
+[2025-07-15 17:28:37][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:28:37][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:28:37][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:28:37][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:28:37][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:28:37][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:28:37][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:28:37][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:28:52][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:28:52][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:28:52][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:28:52][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:28:52][INFO][app.<module>]-程序启动
+[2025-07-15 17:28:52][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:28:52][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:28:52][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:28:52][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:28:52][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:28:52][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:28:52][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:28:52][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:28:56][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:28:56][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:28:56][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:28:56][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:28:56][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：name 'logger' is not defined
+[2025-07-15 17:29:03][INFO][audio_player.pause]-暂停播放
+[2025-07-15 17:29:04][INFO][audio_player.play]-恢复播放
+[2025-07-15 17:30:50][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:30:50][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:30:50][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:30:50][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:30:51][INFO][app.<module>]-程序启动
+[2025-07-15 17:30:51][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:30:51][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:30:51][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:30:51][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:30:51][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:30:51][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:30:51][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:30:51][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:30:57][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:30:57][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:30:57][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:30:57][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:30:57][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:31:15][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：'position'
+[2025-07-15 17:31:23][INFO][audio_player.pause]-暂停播放
+[2025-07-15 17:31:24][INFO][audio_player.play]-恢复播放
+[2025-07-15 17:33:13][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:33:13][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:33:13][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:33:13][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:33:13][INFO][app.<module>]-程序启动
+[2025-07-15 17:33:14][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:33:14][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:33:14][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:33:14][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:33:14][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:33:14][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:33:14][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:33:14][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:33:17][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:33:17][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:33:17][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:33:17][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:33:17][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:33:17][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：'position'
+[2025-07-15 17:33:19][INFO][audio_player.pause]-暂停播放
+[2025-07-15 17:33:20][INFO][audio_player.play]-恢复播放
+[2025-07-15 17:35:08][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:35:08][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:35:08][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:35:08][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:35:09][INFO][app.<module>]-程序启动
+[2025-07-15 17:35:09][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:35:09][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:35:09][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:35:09][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:35:09][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:35:09][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:35:09][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:35:09][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:35:16][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:35:16][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:35:16][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:35:16][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:35:16][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:35:20][INFO][audio_player.set_position]-设置播放位置为22.0%
+[2025-07-15 17:35:20][INFO][audio_player.set_position]-设置播放位置为68.0%
+[2025-07-15 17:35:21][INFO][audio_player.set_position]-设置播放位置为74.0%
+[2025-07-15 17:35:23][INFO][audio_player.set_position]-设置播放位置为79.0%
+[2025-07-15 17:35:24][INFO][audio_player.set_position]-设置播放位置为91.0%
+[2025-07-15 17:36:52][INFO][audio_player.stop]-停止播放
+[2025-07-15 17:36:52][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 17:36:52][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 17:36:53][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 17:48:04][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:48:04][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:48:04][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:48:04][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:48:05][INFO][app.<module>]-程序启动
+[2025-07-15 17:48:05][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:48:05][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:48:05][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:48:05][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:48:05][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:48:05][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:48:05][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:48:05][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:48:11][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:48:11][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:48:11][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:48:11][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:48:11][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:48:11][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：Unknown format code 'd' for object of type 'float'
+[2025-07-15 17:48:17][INFO][audio_player.set_position]-设置播放位置为30.0%
+[2025-07-15 17:48:19][INFO][audio_player.set_position]-设置播放位置为84.0%
+[2025-07-15 17:49:05][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:49:05][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:49:05][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:49:05][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:49:06][INFO][app.<module>]-程序启动
+[2025-07-15 17:49:06][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:49:06][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:49:06][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:49:06][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:49:06][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:49:06][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:49:06][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:49:06][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:49:09][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:49:09][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:49:09][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:49:09][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:49:09][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:49:38][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：Unknown format code 'd' for object of type 'float'
+[2025-07-15 17:50:32][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 17:50:32][INFO][audio_player.stop]-停止播放
+[2025-07-15 17:50:32][INFO][database.close]-数据库连接关闭
+[2025-07-15 17:50:32][INFO][app.<module>]-程序正常退出
+[2025-07-15 17:50:33][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:50:33][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:50:33][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:50:33][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:50:34][INFO][app.<module>]-程序启动
+[2025-07-15 17:50:34][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:50:34][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:50:34][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:50:34][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:50:34][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:50:34][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:50:34][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:50:34][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:50:36][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 17:50:36][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:50:36][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:50:36][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 17:50:36][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': '未知', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': None}
+[2025-07-15 17:50:39][INFO][components.update_song_info]-当前播放进度时间：00:02
+[2025-07-15 17:50:52][INFO][audio_player.pause]-暂停播放
+[2025-07-15 17:50:53][INFO][audio_player.play]-恢复播放
+[2025-07-15 17:53:00][INFO][audio_player.pause]-暂停播放
+[2025-07-15 17:53:00][INFO][audio_player.play]-恢复播放
+[2025-07-15 17:53:37][INFO][audio_player.stop]-停止播放
+[2025-07-15 17:53:37][INFO][audio_player.update_position]-播放完毕：sold out
+[2025-07-15 17:53:37][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 17:53:38][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 17:54:35][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:54:35][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:54:35][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:54:35][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:54:35][INFO][app.<module>]-程序启动
+[2025-07-15 17:54:35][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:54:35][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:54:35][INFO][components.update_song_info]-更新当前播放歌曲信息：None
+[2025-07-15 17:54:35][ERROR][main_windows.create_widgets]-创建菜单栏失败：'NowPlayingPanel' object has no attribute 'song_title'
+[2025-07-15 17:54:35][ERROR][main_windows.__init__]-初始化播放器和下载器失败：'NowPlayingPanel' object has no attribute 'song_title'
+[2025-07-15 17:54:40][ERROR][app.<module>]-程序启动失败：can't invoke "wm" command: application has been destroyed
+[2025-07-15 17:55:05][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:55:05][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:55:05][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:55:05][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:55:06][INFO][app.<module>]-程序启动
+[2025-07-15 17:55:06][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:55:06][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:55:06][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:55:06][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:55:06][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:55:06][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:55:06][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:55:06][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:55:08][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:55:08][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:55:14][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:55:14][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:56:03][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:56:03][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:56:03][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:56:03][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:56:03][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': None}
+[2025-07-15 17:56:09][INFO][components.update_song_info]-当前播放进度时间：00:03
+[2025-07-15 17:58:52][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 17:58:52][INFO][audio_player.stop]-停止播放
+[2025-07-15 17:58:52][INFO][database.close]-数据库连接关闭
+[2025-07-15 17:58:52][INFO][app.<module>]-程序正常退出
+[2025-07-15 17:58:56][INFO][database.connect]-数据库连接成功
+[2025-07-15 17:58:56][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 17:58:56][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 17:58:56][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 17:58:57][INFO][app.<module>]-程序启动
+[2025-07-15 17:58:57][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 17:58:57][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 17:58:57][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 17:58:57][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 17:58:57][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 17:58:57][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 17:58:57][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 17:58:57][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 17:59:00][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 17:59:00][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 17:59:00][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 17:59:00][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 17:59:00][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': '"D:/Download/project_music_player_download/img/chendu1.jpg"'}
+[2025-07-15 17:59:00][INFO][components.update_song_info]-当前播放进度时间：00:03
+[2025-07-15 18:00:15][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 18:00:15][INFO][audio_player.stop]-停止播放
+[2025-07-15 18:00:15][INFO][database.close]-数据库连接关闭
+[2025-07-15 18:00:15][INFO][app.<module>]-程序正常退出
+[2025-07-15 18:00:20][INFO][database.connect]-数据库连接成功
+[2025-07-15 18:00:20][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 18:00:20][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 18:00:20][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 18:00:20][INFO][app.<module>]-程序启动
+[2025-07-15 18:00:20][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 18:00:20][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 18:00:20][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 18:00:20][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 18:00:20][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 18:00:20][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 18:00:20][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 18:00:20][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 18:00:23][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 18:00:23][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:00:23][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:00:23][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 18:00:23][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 18:00:23][INFO][components.update_song_info]-当前播放进度时间：00:03
+[2025-07-15 18:03:22][INFO][audio_player.stop]-停止播放
+[2025-07-15 18:03:22][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 18:03:22][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 18:03:23][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 18:03:29][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 18:03:29][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 18:03:29][INFO][database.close]-数据库连接关闭
+[2025-07-15 18:03:29][INFO][app.<module>]-程序正常退出
+[2025-07-15 18:03:50][INFO][database.connect]-数据库连接成功
+[2025-07-15 18:03:50][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 18:03:50][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 18:03:50][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 18:03:51][INFO][app.<module>]-程序启动
+[2025-07-15 18:03:51][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 18:03:51][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 18:03:51][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 18:03:51][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 18:03:51][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 18:03:51][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 18:03:51][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 18:03:51][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 18:03:53][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 18:03:53][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:03:53][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:03:53][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 18:03:53][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 18:03:53][INFO][components.update_song_info]-当前播放进度时间：00:03
+[2025-07-15 18:04:10][INFO][database.connect]-数据库连接成功
+[2025-07-15 18:04:10][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 18:04:10][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 18:04:10][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 18:04:11][INFO][app.<module>]-程序启动
+[2025-07-15 18:04:11][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 18:04:11][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 18:04:11][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 18:04:11][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 18:04:11][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 18:04:11][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 18:04:11][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 18:04:11][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 18:04:14][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 18:04:14][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:04:14][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:04:14][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 18:04:14][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chengdu.jp"'}
+[2025-07-15 18:04:14][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chengdu.jp"" doesn't exist
+[2025-07-15 18:06:12][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 18:06:12][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:06:12][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:06:12][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 18:06:12][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 18:06:12][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 18:06:19][INFO][audio_player.pause]-暂停播放
+[2025-07-15 18:06:20][INFO][audio_player.play]-恢复播放
+[2025-07-15 18:06:22][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 18:06:22][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:06:22][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:06:22][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 18:06:22][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 58, 'title': 'chengdu', 'artist': '赵雷', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 42, 56), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 18:06:22][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=58,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 18:07:22][INFO][audio_player.stop]-停止播放
+[2025-07-15 18:07:22][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 18:07:22][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 18:07:22][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 18:07:23][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 18:07:23][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 18:07:31][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:07:31][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:07:31][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 18:07:33][INFO][audio_player.pause]-暂停播放
+[2025-07-15 18:07:36][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 18:07:36][INFO][audio_player.play]-恢复播放
+[2025-07-15 18:07:36][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 18:07:36][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 18:07:36][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 18:07:39][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 18:07:39][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 18:07:39][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 18:07:39][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 18:07:39][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chengdu.jp"'}
+[2025-07-15 18:07:39][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chengdu.jp"" doesn't exist
+[2025-07-15 18:07:42][INFO][audio_player.pause]-暂停播放
+[2025-07-15 18:07:43][INFO][audio_player.play]-恢复播放
+[2025-07-15 18:07:44][INFO][audio_player.pause]-暂停播放
+[2025-07-15 18:07:49][INFO][audio_player.play]-恢复播放
+[2025-07-15 18:07:57][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 18:07:59][WARNING][audio_player.play_prev]-当前没有播放列表，无法播放上一首
+[2025-07-15 18:08:00][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 18:08:00][INFO][audio_player.stop]-停止播放
+[2025-07-15 18:08:00][INFO][database.close]-数据库连接关闭
+[2025-07-15 18:08:00][INFO][app.<module>]-程序正常退出
+[2025-07-15 20:13:36][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:13:36][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:13:36][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:13:36][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:13:37][INFO][app.<module>]-程序启动
+[2025-07-15 20:13:37][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:13:37][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 20:13:37][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 20:13:37][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 20:13:37][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 20:13:37][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:13:37][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:13:37][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 20:13:42][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 20:13:42][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 20:13:42][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 20:13:42][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 20:13:42][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 20:13:42][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 20:13:56][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 20:13:56][INFO][audio_player.stop]-停止播放
+[2025-07-15 20:13:56][INFO][database.close]-数据库连接关闭
+[2025-07-15 20:13:56][INFO][app.<module>]-程序正常退出
+[2025-07-15 20:21:52][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:21:52][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:21:52][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:21:52][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:21:57][INFO][app.<module>]-程序启动
+[2025-07-15 20:21:57][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:21:57][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 20:21:57][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 20:21:57][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 20:21:57][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 20:21:57][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:21:57][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:21:57][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 20:36:55][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:36:55][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:36:56][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:36:56][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:37:03][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 20:37:05][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 20:37:06][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 20:37:07][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 20:37:08][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 20:37:08][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 20:37:09][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 20:37:10][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 20:37:11][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 20:37:12][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 20:37:12][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 20:37:13][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 20:37:15][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/chengdu.mp3
+[2025-07-15 20:37:15][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/chengdu.mp3成功
+[2025-07-15 20:37:15][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 20:37:15][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 20:37:15][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 20:37:15][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chengdu.jpg'}
+[2025-07-15 20:37:15][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：image "D:/Download/project_music_player_download/img/chengdu.jpg" doesn't exist
+[2025-07-15 20:40:14][INFO][audio_player.stop]-停止播放
+[2025-07-15 20:40:14][INFO][audio_player.update_position]-播放完毕：chengdu
+[2025-07-15 20:40:14][WARNING][audio_player.play_next]-当前没有播放列表，无法播放下一首
+[2025-07-15 20:40:15][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 20:41:21][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:41:21][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:41:21][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:41:21][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:41:22][INFO][app.<module>]-程序启动
+[2025-07-15 20:41:22][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:41:22][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 20:41:22][INFO][downloader.__init__]-创建下载目录D:/Download/project_music_player_download/downloads
+[2025-07-15 20:41:22][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 20:41:22][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 20:41:22][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 20:41:22][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:41:22][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:41:22][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 20:41:28][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/sold out.mp3
+[2025-07-15 20:41:28][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/sold out.mp3成功
+[2025-07-15 20:41:28][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 20:41:28][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 20:41:28][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 20:41:28][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 20:41:28][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 20:42:12][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 20:42:12][INFO][audio_player.stop]-停止播放
+[2025-07-15 20:42:12][INFO][database.close]-数据库连接关闭
+[2025-07-15 20:42:13][INFO][app.<module>]-程序正常退出
+[2025-07-15 20:43:52][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:43:52][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:43:52][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:43:52][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:43:57][INFO][app.<module>]-程序启动
+[2025-07-15 20:43:57][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:47:55][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:47:55][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:47:55][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:47:55][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:47:55][INFO][app.<module>]-程序启动
+[2025-07-15 20:47:55][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:47:58][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 20:47:59][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 20:47:59][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 20:47:59][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 20:47:59][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:47:59][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:47:59][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 20:48:56][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:48:56][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 20:50:40][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:50:40][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:50:40][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:50:40][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:50:46][INFO][app.<module>]-程序启动
+[2025-07-15 20:50:46][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:50:46][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 20:50:46][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 20:50:46][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 20:50:46][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 20:50:46][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:50:46][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：'song_id'
+[2025-07-15 20:50:46][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 20:50:48][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:50:48][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：'song_id'
+[2025-07-15 20:50:49][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 20:50:49][ERROR][main_windows.set_default_playlist]-设置默认播放列表失败：'song_id'
+[2025-07-15 20:52:28][INFO][database.connect]-数据库连接成功
+[2025-07-15 20:52:28][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 20:52:28][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 20:52:28][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 20:52:33][INFO][app.<module>]-程序启动
+[2025-07-15 20:52:33][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 20:52:34][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 20:52:34][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 20:52:34][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 20:52:34][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 20:52:34][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:14:13][INFO][database.connect]-数据库连接成功
+[2025-07-15 21:14:13][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 21:14:13][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 21:14:13][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 21:14:18][INFO][app.<module>]-程序启动
+[2025-07-15 21:14:18][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 21:14:19][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 21:14:19][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 21:14:19][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 21:14:19][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 21:14:19][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:16:02][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 21:16:02][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 21:16:10][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:16:10][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 21:16:14][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 21:16:23][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:16:23][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 21:16:25][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 21:16:26][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 21:16:27][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 21:16:27][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-15 21:16:27][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/sold out.mp3
+[2025-07-15 21:16:27][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/sold out.mp3不存在
+[2025-07-15 21:16:28][ERROR][audio_player.play]-播放音乐失败：music not loaded
+[2025-07-15 21:16:29][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/sold out.mp3
+[2025-07-15 21:16:29][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/sold out.mp3不存在
+[2025-07-15 21:16:37][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/chengdu.mp3
+[2025-07-15 21:16:37][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/chengdu.mp3不存在
+[2025-07-15 21:18:32][INFO][database.connect]-数据库连接成功
+[2025-07-15 21:18:32][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 21:18:32][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 21:18:32][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 21:18:33][INFO][app.<module>]-程序启动
+[2025-07-15 21:18:33][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 21:18:33][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 21:18:33][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 21:18:33][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 21:18:33][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 21:18:33][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:18:33][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 21:18:33][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 21:18:36][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/download/chengdu.mp3
+[2025-07-15 21:18:36][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/download/chengdu.mp3不存在
+[2025-07-15 21:19:53][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/download/sold out.mp3
+[2025-07-15 21:19:53][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/download/sold out.mp3不存在
+[2025-07-15 21:19:56][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/download/sold out.mp3
+[2025-07-15 21:19:56][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/download/sold out.mp3不存在
+[2025-07-15 21:20:07][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/download/chengdu.mp3
+[2025-07-15 21:20:07][ERROR][audio_player.load_song]-音乐文件D:/Download/project_music_player_download/download/chengdu.mp3不存在
+[2025-07-15 21:20:12][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 21:20:12][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 21:20:12][INFO][database.close]-数据库连接关闭
+[2025-07-15 21:20:12][INFO][app.<module>]-程序正常退出
+[2025-07-15 21:20:29][INFO][database.connect]-数据库连接成功
+[2025-07-15 21:20:29][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 21:20:29][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 21:20:29][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 21:20:34][INFO][app.<module>]-程序启动
+[2025-07-15 21:20:34][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 21:20:34][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 21:20:34][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 21:20:34][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 21:20:34][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 21:20:34][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:20:34][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 21:20:34][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 21:20:36][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 21:20:36][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 21:20:36][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 21:20:36][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 21:20:36][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 21:20:36][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/downloads/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 21:20:36][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 21:20:55][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-15 21:20:55][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 21:20:55][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 21:20:55][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 21:20:55][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 21:20:55][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 21:20:56][INFO][audio_player.play_prev]-上一首：sold out
+[2025-07-15 21:20:56][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 21:20:56][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 21:20:56][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 21:20:56][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 21:20:56][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 21:21:56][INFO][audio_player.stop]-停止播放
+[2025-07-15 21:21:56][INFO][audio_player.update_position]-播放完毕：sold out
+[2025-07-15 21:21:56][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-15 21:21:56][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 21:21:56][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 21:21:56][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 21:21:56][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 21:21:56][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 21:22:01][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/chengdu.mp3
+[2025-07-15 21:22:01][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/chengdu.mp3成功
+[2025-07-15 21:22:01][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 21:22:01][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 21:22:01][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 21:22:01][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/downloads/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chengdu.jpg'}
+[2025-07-15 21:22:01][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：image "D:/Download/project_music_player_download/img/chengdu.jpg" doesn't exist
+[2025-07-15 21:22:17][INFO][audio_player.pause]-暂停播放
+[2025-07-15 21:22:19][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 21:22:19][INFO][audio_player.stop]-停止播放
+[2025-07-15 21:22:19][INFO][database.close]-数据库连接关闭
+[2025-07-15 21:22:19][INFO][app.<module>]-程序正常退出
+[2025-07-15 21:23:27][INFO][database.connect]-数据库连接成功
+[2025-07-15 21:23:27][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 21:23:27][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 21:23:27][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 21:23:28][INFO][app.<module>]-程序启动
+[2025-07-15 21:23:28][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 21:23:28][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 21:23:28][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 21:23:28][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 21:23:28][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 21:23:28][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 21:23:28][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 21:24:13][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 21:24:17][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 21:24:42][WARNING][audio_player.play]-当前没有歌曲选中，无法播放
+[2025-07-15 22:41:43][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:41:43][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:41:43][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:41:43][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:41:48][INFO][app.<module>]-程序启动
+[2025-07-15 22:41:48][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:41:48][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:41:48][ERROR][main_windows.create_widgets]-创建菜单栏失败：bad option "-fill": must be -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky
+[2025-07-15 22:41:48][ERROR][main_windows.__init__]-初始化播放器和下载器失败：bad option "-fill": must be -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky
+[2025-07-15 22:41:53][ERROR][app.<module>]-程序启动失败：can't invoke "wm" command: application has been destroyed
+[2025-07-15 22:42:56][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:42:56][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:42:56][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:42:56][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:42:57][INFO][app.<module>]-程序启动
+[2025-07-15 22:42:57][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:42:57][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:42:57][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 22:42:57][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 22:42:57][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 22:42:57][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:42:57][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:43:02][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 22:43:09][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:43:09][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:43:57][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:43:57][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:43:57][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:43:57][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:43:58][INFO][app.<module>]-程序启动
+[2025-07-15 22:43:58][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:43:58][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:43:58][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 22:43:58][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 22:43:58][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 22:43:58][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:43:58][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:43:58][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 22:45:05][INFO][main_windows.download_selected]-下载选中的音乐
+[2025-07-15 22:45:05][INFO][main_windows.download_selected]-下载选中的音乐失败，未选择歌曲
+[2025-07-15 22:45:14][WARNING][audio_player.set_position]-当前没有正在播放的音乐，无法设置播放位置
+[2025-07-15 22:45:18][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-15 22:45:18][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 22:45:18][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 22:45:18][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 22:45:18][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 22:45:18][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 22:45:19][INFO][audio_player.pause]-暂停播放
+[2025-07-15 22:45:20][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/chengdu.mp3
+[2025-07-15 22:45:20][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/chengdu.mp3成功
+[2025-07-15 22:45:20][INFO][audio_player.play]-恢复播放
+[2025-07-15 22:45:20][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 57, 'title': 'chengdu', 'artist': 'zhaolei', 'album': '未知', 'duration': 328, 'file_path': 'D:/Download/project_music_player_download/downloads/chengdu.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 16, 8, 26), 'img_path': 'D:/Download/project_music_player_download/img/chengdu.jpg'}
+[2025-07-15 22:45:20][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=57,错误信息：image "D:/Download/project_music_player_download/img/chengdu.jpg" doesn't exist
+[2025-07-15 22:45:21][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 22:45:23][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 22:45:23][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 22:45:23][INFO][audio_player.play]-开始播放：chengdu
+[2025-07-15 22:45:27][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 22:45:27][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 22:45:27][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 22:45:27][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 22:45:27][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 22:45:27][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/downloads/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 22:45:27][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 22:46:56][INFO][audio_player.stop]-停止播放
+[2025-07-15 22:46:56][INFO][audio_player.update_position]-播放完毕：sold out
+[2025-07-15 22:46:56][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-15 22:46:56][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 22:46:56][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 22:46:56][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 22:46:56][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 22:46:56][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 22:47:06][INFO][audio_player.pause]-暂停播放
+[2025-07-15 22:47:10][INFO][audio_player.set_position]-设置播放位置为79.0%
+[2025-07-15 22:47:33][INFO][main_windows.search_music_online]-搜索在线音乐失败，搜索内容为空
+[2025-07-15 22:47:35][INFO][main_windows.add_local_music]-添加本地音乐
+[2025-07-15 22:47:37][INFO][main_windows.add_local_music]-用户取消了添加本地音乐
+[2025-07-15 22:47:45][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 22:47:45][INFO][audio_player.stop]-停止播放
+[2025-07-15 22:47:45][INFO][database.close]-数据库连接关闭
+[2025-07-15 22:47:45][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 22:47:45][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 22:47:45][INFO][app.<module>]-程序正常退出
+[2025-07-15 22:53:16][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:53:16][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:53:16][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:53:16][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:53:17][INFO][app.<module>]-程序启动
+[2025-07-15 22:53:17][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:53:17][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:55:13][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:55:13][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:55:13][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:55:13][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:55:14][INFO][app.<module>]-程序启动
+[2025-07-15 22:55:14][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:55:14][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:55:14][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 22:55:14][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 22:55:14][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 22:55:14][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:55:14][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:55:14][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 22:56:20][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:56:20][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:56:20][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:56:20][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:56:21][INFO][app.<module>]-程序启动
+[2025-07-15 22:56:21][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:56:21][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:56:21][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 22:56:21][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 22:56:21][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 22:56:21][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:56:21][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:56:21][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 22:56:27][INFO][main_windows.on_closing]-程序关闭
+[2025-07-15 22:56:27][WARNING][audio_player.stop]-当前没有正在播放的音乐，无法停止
+[2025-07-15 22:56:27][INFO][database.close]-数据库连接关闭
+[2025-07-15 22:56:27][INFO][app.<module>]-程序正常退出
+[2025-07-15 22:57:46][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:57:46][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:57:46][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:57:46][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:57:47][INFO][app.<module>]-程序启动
+[2025-07-15 22:57:47][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:57:47][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:57:47][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 22:57:47][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 22:57:47][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 22:57:47][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:57:47][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:57:47][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 22:59:21][INFO][database.connect]-数据库连接成功
+[2025-07-15 22:59:21][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 22:59:21][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 22:59:21][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 22:59:27][INFO][app.<module>]-程序启动
+[2025-07-15 22:59:27][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 22:59:27][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 22:59:27][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 22:59:27][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 22:59:27][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 22:59:27][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 22:59:27][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 22:59:27][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 23:07:38][INFO][database.connect]-数据库连接成功
+[2025-07-15 23:07:38][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 23:07:38][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 23:07:38][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 23:07:39][INFO][app.<module>]-程序启动
+[2025-07-15 23:07:39][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 23:07:39][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 23:07:39][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 23:07:39][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 23:07:39][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 23:07:39][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 23:07:39][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 23:07:39][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 23:17:46][INFO][database.connect]-数据库连接成功
+[2025-07-15 23:17:46][INFO][database.set_default_playlists]-播放列表默认播放列表已存在，无需创建
+[2025-07-15 23:17:46][INFO][database.create_tables]-数据库表创建成功
+[2025-07-15 23:17:46][INFO][database.__init__]-数据库初始化完成
+[2025-07-15 23:17:51][INFO][app.<module>]-程序启动
+[2025-07-15 23:17:51][INFO][main_windows.__init__]-音乐播放器启动，可以使用免费的音乐资源了！
+[2025-07-15 23:17:51][INFO][audio_player.__init__]-初始化音频播放器成功
+[2025-07-15 23:17:51][INFO][main_windows.create_widgets]-创建界面成功
+[2025-07-15 23:17:51][INFO][main_windows.load_local_music]-加载本地音乐
+[2025-07-15 23:17:51][INFO][main_windows.load_local_music]-加载本地音乐成功,共加载3首歌曲！
+[2025-07-15 23:17:51][INFO][main_windows.set_default_playlist]-设置默认播放列表
+[2025-07-15 23:17:51][INFO][main_windows.set_default_playlist]-设置默认播放列表成功,共加载1首歌曲！
+[2025-07-15 23:17:51][INFO][main_windows.__init__]-音乐播放器初始化完成
+[2025-07-15 23:20:09][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 23:20:09][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 23:20:09][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 23:20:09][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 23:20:09][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 23:20:09][INFO][components.update_song_info]-更新当前播放歌曲信息：{'song_id': 56, 'title': 'sold out', 'artist': 'kangyq', 'album': '未知', 'duration': 212, 'file_path': 'D:/Download/project_music_player_download/downloads/sold out.mp3', 'source': 0, 'add_time': datetime.datetime(2025, 7, 15, 14, 43, 17), 'img_path': 'D:/Download/project_music_player_download/img/chendu1.jpg'}
+[2025-07-15 23:20:09][ERROR][main_windows.on_music_double_click]-播放歌曲失败，ID=56,错误信息：image "D:/Download/project_music_player_download/img/chendu1.jpg" doesn't exist
+[2025-07-15 23:20:24][INFO][audio_player.set_position]-设置播放位置为74.0%
+[2025-07-15 23:20:25][INFO][audio_player.play_next]-下一首：sold out
+[2025-07-15 23:20:25][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 23:20:25][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 23:20:25][DEBUG][audio_player.update_position]-播放位置更新线程启动
+[2025-07-15 23:20:25][DEBUG][audio_player.start_position_update]-启动播放位置更新线程
+[2025-07-15 23:20:25][INFO][audio_player.play]-开始播放：sold out
+[2025-07-15 23:20:26][INFO][audio_player.pause]-暂停播放
+[2025-07-15 23:20:26][INFO][audio_player.play_prev]-上一首：sold out
+[2025-07-15 23:20:26][INFO][audio_player.load_song]-加载歌曲：D:/Download/project_music_player_download/downloads/sold out.mp3
+[2025-07-15 23:20:26][INFO][audio_player.load_song]-加载音乐文件D:/Download/project_music_player_download/downloads/sold out.mp3成功
+[2025-07-15 23:20:26][INFO][audio_player.play]-恢复播放
+[2025-07-15 23:20:27][DEBUG][audio_player.update_position]-播放位置更新线程结束
+[2025-07-15 23:20:27][DEBUG][audio_player.update_position]-播放位置更新线程结束
