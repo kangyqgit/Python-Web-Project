@@ -1,1 +1,6 @@
 #依赖文件，用于安装依赖库
+flask
+numpy
+pandas
+matplotlib
+django~=5.2.4
