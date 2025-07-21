@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}Page Title{% endblock %}
+{% block header %}Welcome to my page{% endblock %}
+
+{% block content %}
+    <h2>This is the content of the page</h2>
+    <p>Current user: {{ current_user.username }}</p>
+{% endblock %}

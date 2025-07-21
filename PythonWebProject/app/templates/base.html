@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}{% endblock %} - My Site</title>
+</head>
+<body>
+    <header>
+        <h1>{% block header %}My Website{% endblock %}</h1>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+        &copy; {{ current_year }} My Site
+    </footer>
+</body>
+</html>
